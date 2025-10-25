@@ -1,0 +1,28 @@
+﻿
+namespace RedLightVision
+{
+    public class RedScreenForm : Form
+    {
+        private readonly int durationMinutes;
+
+        public RedScreenForm(int durationMinutes)
+        {
+            this.durationMinutes = durationMinutes;
+
+            FormBorderStyle = FormBorderStyle.None;
+            WindowState = FormWindowState.Maximized;
+            BackColor = Color.FromArgb(255, 0, 0); // roșu pur
+            TopMost = true;
+            ShowInTaskbar = false;
+            Opacity = 1.0; // fără transparență
+
+            KeyDown += (s, e) => { if (e.KeyCode == Keys.Escape) Close(); };
+        }
+
+        public async Task RunSessionAsync()
+        {
+            await Task.Delay(durationMinutes * 60 * 1000); // stă deschis cât e setat
+            Close();
+        }
+    }
+}

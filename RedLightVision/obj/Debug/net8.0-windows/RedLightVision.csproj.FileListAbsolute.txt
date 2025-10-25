@@ -1,0 +1,17 @@
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.AssemblyInfoInputs.cache
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.AssemblyInfo.cs
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.csproj.CoreCompileInputs.cache
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.MainForm.resources
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.csproj.GenerateResource.cache
+D:\.NET\RedLightVision\RedLightVision\bin\Debug\net8.0-windows\RedLightVision.exe
+D:\.NET\RedLightVision\RedLightVision\bin\Debug\net8.0-windows\RedLightVision.deps.json
+D:\.NET\RedLightVision\RedLightVision\bin\Debug\net8.0-windows\RedLightVision.runtimeconfig.json
+D:\.NET\RedLightVision\RedLightVision\bin\Debug\net8.0-windows\RedLightVision.dll
+D:\.NET\RedLightVision\RedLightVision\bin\Debug\net8.0-windows\RedLightVision.pdb
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.dll
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\refint\RedLightVision.dll
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.pdb
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.genruntimeconfig.cache
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\ref\RedLightVision.dll
+D:\.NET\RedLightVision\RedLightVision\obj\Debug\net8.0-windows\RedLightVision.RedScreenForm.resources
