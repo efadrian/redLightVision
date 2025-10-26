@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\RedLightVision\\RedLightVision\\RedLightVision.csproj": {}
+    "D:\\GitHub\\redLightVision\\RedLightVision\\RedLightVision.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\RedLightVision\\RedLightVision\\RedLightVision.csproj": {
+    "D:\\GitHub\\redLightVision\\RedLightVision\\RedLightVision.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\RedLightVision\\RedLightVision\\RedLightVision.csproj",
+        "projectUniqueName": "D:\\GitHub\\redLightVision\\RedLightVision\\RedLightVision.csproj",
         "projectName": "RedLightVision",
-        "projectPath": "D:\\.NET\\RedLightVision\\RedLightVision\\RedLightVision.csproj",
+        "projectPath": "D:\\GitHub\\redLightVision\\RedLightVision\\RedLightVision.csproj",
         "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\RedLightVision\\RedLightVision\\obj\\",
+        "outputPath": "D:\\GitHub\\redLightVision\\RedLightVision\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedLightVision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68cb9b7d6ad92b59192d85c9c87ca64ea724b1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedLightVision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedLightVision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

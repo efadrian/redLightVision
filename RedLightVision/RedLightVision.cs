@@ -20,7 +20,7 @@ namespace RedLightVision
 
             Label label = new Label
             {
-                Text = "Durata sesiunii (minute):",
+                Text = "Session time (minutes):",
                 Location = new Point(20, 20),
                 AutoSize = true
             };
@@ -38,7 +38,7 @@ namespace RedLightVision
 
             startButton = new Button
             {
-                Text = "Start sesiune",
+                Text = "Start",
                 Location = new Point(80, 60),
                 Width = 120
             };
@@ -46,7 +46,7 @@ namespace RedLightVision
             Controls.Add(startButton);
         }
 
-        private async void StartButton_Click(object sender, EventArgs e)
+        private async void StartButton_Click(object? sender, EventArgs e)
         {
             int durationMinutes = (int)durationSelector.Value;
 
